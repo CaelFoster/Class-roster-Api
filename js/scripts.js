@@ -5,7 +5,23 @@
 // Note: We're using NoCode API to make connecting to AirTable easier
 const url = "https://v1.nocodeapi.com/pmanikoth/airtable/rsqhQzAAKcMyyPPW?tableName=Roster";
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Get data
+/*
 fetch(url)
   .then( response  => response.json())
   .then( data  => {
@@ -37,3 +53,4 @@ fetch(url)
       gallery.insertAdjacentHTML("afterbegin", template);
     });
   });
+*/
